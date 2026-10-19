@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gh-pages-demo-v2/static/css/main.f855e6bc.css",
+    "main.js": "/gh-pages-demo-v2/static/js/main.580480ee.js",
+    "static/js/453.f72d105d.chunk.js": "/gh-pages-demo-v2/static/js/453.f72d105d.chunk.js",
+    "index.html": "/gh-pages-demo-v2/index.html",
+    "main.f855e6bc.css.map": "/gh-pages-demo-v2/static/css/main.f855e6bc.css.map",
+    "main.580480ee.js.map": "/gh-pages-demo-v2/static/js/main.580480ee.js.map",
+    "453.f72d105d.chunk.js.map": "/gh-pages-demo-v2/static/js/453.f72d105d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.580480ee.js"
+  ]
+}
